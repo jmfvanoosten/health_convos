@@ -1,0 +1,3 @@
+Youtube:https://github.com/uvacw/inca/blob/development/inca/clients/youtube_client.py
+
+Reddit: https://github.com/reddit-archive/reddit/wiki/OAuth2-Quick-Start-Example
